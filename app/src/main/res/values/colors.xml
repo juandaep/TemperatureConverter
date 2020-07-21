@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="Fahrenheit">#e8ac09</color>
+    <color name="Kelvin">#46b229</color>
+    <color name="Celsius">#1a7fdd</color>
+    <color name="Reamur">#ed5050</color>
+</resources>
